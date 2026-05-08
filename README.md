@@ -1,2 +1,9 @@
-# mern-day-5-practice
-Day 5 of MERN Stack Internship covering hands-on practice with CSS Positioning, Flexbox layout, Hover effects, and Background images using HTML &amp; CSS.
+Day 5 - MERN Stack Internship
+This repository contains my Day 5 tasks as part of the MERN Stack Internship.
+It includes hands-on practice with:
+CSS Positioning
+Flexbox Layout
+Hover Effects
+Background Images
+All tasks are built using HTML & CSS, focusing on layout design, styling, and basic UI improvements.
+Goal: Improve frontend development skills and understand core CSS concepts used in real-world web pages.
